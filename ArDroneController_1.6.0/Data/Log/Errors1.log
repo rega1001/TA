@@ -1,0 +1,35 @@
+[NFO] [12:11:26,152] --------------------------------------------------------------
+[NFO] [12:11:26,169] ArDrone controller 1.6.0
+[NFO] [12:11:26,179] OS: Windows NT 6.2 (build 9200), 64-bit edition
+[NFO] [12:11:26,191] Tue Feb 20 12:11:26 2024
+[NFO] [12:11:26,202] --------------------------------------------------------------
+[NFO] [12:11:26,481] Initialize main frame
+[NFO] [12:11:26,499] Main frame initialized
+[NFO] [12:11:28,293] Try to open a connection to 192.168.1.1
+[NFO] [12:11:28,304] Winsock data initialized
+[NFO] [12:11:28,381] FFMPEG initialized
+[ERR] [12:11:32,452] [CvDrone] InternetConnect(port=5551) was failed. (ardrone\version.cpp, 46)
+
+[ERR] [12:11:32,464] Failed to get version info
+[ERR] [12:11:32,478] Failed to connect to the drone, clean up !
+[NFO] [12:11:32,539] Try to close connection
+[NFO] [12:11:32,653] Finalize Watchdog
+[NFO] [12:11:32,666] Watchdog thread finalized
+[NFO] [12:11:32,681] Finalize video
+[NFO] [12:11:32,694] Video finalized
+[NFO] [12:11:32,714] Finalize navdata
+[NFO] [12:11:32,730] Navdata finalized
+[NFO] [12:11:32,744] Finalize command
+[NFO] [12:11:32,760] Command finalized
+[NFO] [12:11:32,776] Connection closed
+[NFO] [12:12:13,241] Try to open a connection to 192.168.1.1
+[NFO] [12:12:13,257] Winsock data initialized
+[NFO] [12:12:13,273] FFMPEG initialized
+[NFO] [12:12:13,351] AR Drone Version: 2.4.8
+
+[NFO] [12:12:13,757] Initialize command
+[NFO] [12:12:14,648] Command initialized
+[NFO] [12:12:14,663] Initialize navdata
+[NFO] [12:12:14,877] Navdata Initialized
+[ERR] [12:12:14,924] Failed to send data over the navdata socket
+[NFO] [12:12:14,987] Initialize video

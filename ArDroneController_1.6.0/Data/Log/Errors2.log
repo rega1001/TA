@@ -1,0 +1,58 @@
+[NFO] [12:28:33,791] --------------------------------------------------------------
+[NFO] [12:28:33,806] ArDrone controller 1.6.0
+[NFO] [12:28:33,822] OS: Windows NT 6.2 (build 9200), 64-bit edition
+[NFO] [12:28:33,838] Tue Feb 13 12:28:33 2024
+[NFO] [12:28:33,853] --------------------------------------------------------------
+[NFO] [12:28:33,972] Initialize main frame
+[NFO] [12:28:33,987] Main frame initialized
+[NFO] [12:28:35,444] Try to open a connection to 192.168.1.1
+[NFO] [12:28:35,455] Winsock data initialized
+[NFO] [12:28:35,459] FFMPEG initialized
+[ERR] [12:28:35,490] [CvDrone] InternetConnect(port=5551) was failed. (ardrone\version.cpp, 46)
+
+[ERR] [12:28:35,506] Failed to get version info
+[ERR] [12:28:35,521] Failed to connect to the drone, clean up !
+[NFO] [12:28:35,537] Try to close connection
+[NFO] [12:28:35,662] Finalize Watchdog
+[NFO] [12:28:35,662] Watchdog thread finalized
+[NFO] [12:28:35,678] Finalize video
+[NFO] [12:28:35,693] Video finalized
+[NFO] [12:28:35,709] Finalize navdata
+[NFO] [12:28:35,725] Navdata finalized
+[NFO] [12:28:35,740] Finalize command
+[NFO] [12:28:35,756] Command finalized
+[NFO] [12:28:35,771] Connection closed
+[NFO] [12:28:55,956] Try to open a connection to 192.168.1.1
+[NFO] [12:28:55,970] Winsock data initialized
+[NFO] [12:28:55,986] FFMPEG initialized
+[NFO] [12:29:22,990] AR Drone Version: 2.4.8
+
+[NFO] [12:29:23,005] Initialize command
+[NFO] [12:29:23,896] Command initialized
+[NFO] [12:29:23,896] Initialize navdata
+[NFO] [12:29:24,130] Navdata Initialized
+[NFO] [12:29:24,146] Initialize video
+[NFO] [12:29:28,415] Video initialized
+[NFO] [12:29:28,431] Initialize Watchdog thread
+[NFO] [12:29:28,447] Watchdog thread initialized
+[NFO] [12:29:28,962] Connection to 192.168.1.1 succesfully opened
+[NFO] [12:29:28,962] Set max altitude to 10 m (10000 mm)
+[NFO] [12:29:29,087] Wifi initialized succesfully
+[NFO] [12:29:29,123] connected to: ardrone2_023863
+[NFO] [12:30:01,912] The drone will take off
+[NFO] [12:30:49,050] The drone will land
+[NFO] [12:30:57,359] The drone will take off
+[NFO] [12:31:12,935] The drone will land
+[NFO] [12:31:58,409] Try to close connection
+[NFO] [12:31:58,518] Finalize Watchdog
+[NFO] [12:31:58,721] Watchdog thread finalized
+[NFO] [12:31:58,752] Finalize video
+[NFO] [12:31:58,768] Video finalized
+[NFO] [12:31:58,784] Finalize navdata
+[NFO] [12:31:58,799] Navdata finalized
+[NFO] [12:31:58,815] Finalize command
+[NFO] [12:31:58,877] Command finalized
+[NFO] [12:31:58,877] Connection closed
+[NFO] [12:32:01,462] Program will be closed
+[NFO] [12:32:01,478] Cleaning Main Frame instance
+[NFO] [12:32:01,494] Main frame thread stopped

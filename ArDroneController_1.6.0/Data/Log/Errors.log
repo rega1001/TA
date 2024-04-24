@@ -1,0 +1,37 @@
+[NFO] [12:19:12,849] --------------------------------------------------------------
+[NFO] [12:19:12,861] ArDrone controller 1.6.0
+[NFO] [12:19:12,872] OS: Windows NT 6.2 (build 9200), 64-bit edition
+[NFO] [12:19:12,894] Tue Feb 20 12:19:12 2024
+[NFO] [12:19:12,904] --------------------------------------------------------------
+[NFO] [12:19:12,995] Initialize main frame
+[NFO] [12:19:13,012] Main frame initialized
+[NFO] [12:19:14,482] Try to open a connection to 192.168.1.1
+[NFO] [12:19:14,498] Winsock data initialized
+[NFO] [12:19:14,510] FFMPEG initialized
+[NFO] [12:19:14,622] AR Drone Version: 2.4.8
+
+[NFO] [12:19:14,636] Initialize command
+[NFO] [12:19:15,514] Command initialized
+[NFO] [12:19:15,531] Initialize navdata
+[NFO] [12:19:15,748] Navdata Initialized
+[NFO] [12:19:15,822] Initialize video
+[NFO] [12:19:20,164] Video initialized
+[NFO] [12:19:20,181] Initialize Watchdog thread
+[NFO] [12:19:20,196] Watchdog thread initialized
+[NFO] [12:19:20,704] Connection to 192.168.1.1 succesfully opened
+[NFO] [12:19:20,724] Set max altitude to 10 m (10000 mm)
+[NFO] [12:19:20,832] Wifi initialized succesfully
+[NFO] [12:19:20,847] connected to: ardrone2_018458
+[NFO] [12:19:27,202] Program will be closed
+[NFO] [12:19:27,221] Cleaning Main Frame instance
+[NFO] [12:19:27,240] Main frame thread stopped
+[NFO] [12:19:27,305] Try to close connection
+[NFO] [12:19:27,444] Finalize Watchdog
+[NFO] [12:19:27,458] Watchdog thread finalized
+[NFO] [12:19:27,474] Finalize video
+[NFO] [12:19:27,488] Video finalized
+[NFO] [12:19:27,503] Finalize navdata
+[NFO] [12:19:27,517] Navdata finalized
+[NFO] [12:19:27,531] Finalize command
+[NFO] [12:19:27,600] Command finalized
+[NFO] [12:19:27,614] Connection closed

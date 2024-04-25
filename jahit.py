@@ -1,7 +1,7 @@
 import cv2
 import glob
 
-image_paths=glob.glob('DataKamera2/1/*.jpg')
+image_paths=glob.glob('AmbilData9/*.jpg')
 # image_paths1=glob.glob('DataKamera2/2/*.jpg')
 # initialized a list of images
 imgs = []
